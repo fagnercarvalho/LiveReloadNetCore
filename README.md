@@ -1,4 +1,4 @@
-# LiveReloadConsoleNetCore
+# LiveReloadNetCore
 
 Live reloading in an ASP.NET Core application!
 
